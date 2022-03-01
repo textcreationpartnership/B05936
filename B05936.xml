@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Spectrum anti-monarchicum. Or, The ghost of Hugh Peters, as he lately appeared to his beloved son, the whole assembly of fanatick Presbyters.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05936</idno>
+            <idno type="OCLC"> 12740009</idno>
+            <idno type="STC">Wing S4848</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[338]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 839.m.22[10]</idno>
+            <idno type="STC">ESTC R32650</idno>
+            <idno type="EEBO-CITATION">99889790</idno>
+            <idno type="PROQUEST">ocm99889790</idno>
+            <idno type="VID">181659</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05936)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181659)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[341]; A2:2[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Spectrum anti-monarchicum. Or, The ghost of Hugh Peters, as he lately appeared to his beloved son, the whole assembly of fanatick Presbyters.</title>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Verse: "Lo! from the dark recess of deepest hell ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English poetry --  Early modern, 1500-1700 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:181659:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 58 -->
+            <head>Spectrum Anti-Monarchicum.</head>
+            <head type="sub">OR, THE Ghoſt of Hugh Peters, AS He lately Appeared to his Beloved Son, the whole Aſſembly OF <hi>Fanatick Preſbyters.</hi>
+            </head>
+            <lg>
+               <l>LO! from the dark Receſs of deepeſt Hell,</l>
+               <l>Where nought but Souls of blackeſt Traytors dwell,</l>
+               <l>Thy Faithleſs Father comes, whoſe Curſed Change,</l>
+               <l>Has made him farr more Active for Revenge.</l>
+               <l>Awake! and ſee how (wrapt in flames) I ſtand</l>
+               <l>With Injur'd Head lopt off by Hangman's hand.</l>
+               <l>Lo! its Wiſe Tongue that ſpoke that God-like Reaſon.</l>
+               <l>Which Daunted Chits and Loyal Fools call Treaſon.</l>
+               <l>See! how 'twixt feſter'd lips it doth Lament</l>
+               <l>Of Pains Impatient as of Government.</l>
+               <l>Ah! Pity Son, Pity thy Father's Caſe,</l>
+               <l>Who ſo unjuſtly has been doom'd this Place;</l>
+               <l>A Thouſand Tortures hurry through my Blood</l>
+               <l>Black with Infection as the <hi>Stygian</hi> Flood.</l>
+               <l>Now ſportive Devils with their tricks of youth,</l>
+               <l>Naked as (what I never knew) the Truth,</l>
+               <l>With Senſes too too Apt for Life, 't expire,</l>
+               <l>Drag my unwaſting Carcaſe through the fire.</l>
+               <l>Then Brawny Fiends full grown for Painful blow</l>
+               <l>With Rods of Sulphur laſh me to and fro—</l>
+               <pb n="2" facs="tcp:181659:2"/>
+               <!-- PDF PAGE 59 -->
+               <l>All Anguiſh as I run this Diſmal Chaſe,</l>
+               <l>The Aged Imps ſpit Nitre in my Face.</l>
+               <l>Thus Plung'd in griefs when I for Mercy cry,</l>
+               <l>Inſatiate Hell Eccho's Eternity!</l>
+               <l>This, this, All this, my Darling boy! I feel</l>
+               <l>Only for Hatching up a Common-Weal.</l>
+               <l>For th' Pious Reſcue of your Raviſh'd Laws,</l>
+               <l>And nobly fighting for the good old Cauſe.</l>
+               <l>For making room for Conſcience 'gainſt your Prince,</l>
+               <l>For which it has been larger ever ſince.</l>
+               <l>For frugal Building up a Tub, in which</l>
+               <l>The Spawling Sot might Brew as well as Preach,</l>
+               <l>For Cropping Ceremonies, pulling down</l>
+               <l>The Church, that We might circumciſe the Crown.</l>
+               <l>For Caſting Lots upon the Biſhops <hi>Lawn,</hi>
+               </l>
+               <l>And making their Poſſeſſions <hi>Puritan.</hi>
+               </l>
+               <l>For turning Top of Houſe to'th Houſe of <hi>Prayer,</hi>
+               </l>
+               <l>And ſighing till the Organ-Pipes came there.</l>
+               <l>For Robbing Sinful Steeples of their Mettles</l>
+               <l>Beat into Honeſt Non-Conformiſt Kettles.</l>
+               <l>For Sweeping Choirs of Prebendaries clean,</l>
+               <l>Led by a great fat Bell-Wether, a <hi>Dean.</hi>
+               </l>
+               <l>For boldly Levelling theſe Proud Degrees,</l>
+               <l>And burning Car-mens Frocks call'd <hi>Surplices.</hi>
+               </l>
+               <l>For long defending of your harmleſs Lives,</l>
+               <l>Your Precious Liberties, and Pious Wives.</l>
+               <lg>
+                  <l>For ſuch bleſs'd Deeds, ſuch Meritorious things;</l>
+                  <l>Nay! and for this, which greater Anguish brings,</l>
+                  <l>The little Venial Crime of Killing Kings.</l>
+               </lg>
+               <l>And can'ſt thou hear my troubled Spirit groan</l>
+               <l>For ſpeedy Vengeance on that Guilty Throne,</l>
+               <l>And want that ſaving Vertue to Rebel,</l>
+               <l>And Damn it with that Law by which I fell?</l>
+               <l>Art thou not Tyrant-Cruſh'd? art thou not hee</l>
+               <l>Would'ſt blaſt Succeſſion for thy Liberty?</l>
+               <pb n="3" facs="tcp:181659:3"/>
+               <!-- PDF PAGE 60 -->
+               <l>Art thou not Prelate bound? art thou not one</l>
+               <l>Would'ſt Smite that Beaſt? nay! art thou not my Son?</l>
+               <l>That Matchleſs Name of Iſſue may ſuffice:</l>
+               <l>'Tis my Malignant Blood that Qualifies</l>
+               <l>For ſtrict Revenge, and can your Soul Poſſeſs</l>
+               <l>With Ills as Damn'd as is my Damn'd Diſtreſs,</l>
+               <l>You told me once you would my Griefs abate,</l>
+               <l>And then Petition'd Hell to vindicate</l>
+               <l>My Wrongs with thee. What dire Conſults? how foul</l>
+               <l>Were thy Reſolves? ſuch as made Fury's houl,</l>
+               <l>Dread Devils ſhrink, freſh Judgments rage about,</l>
+               <l>And Caverns burſt to let its Poiſon out.</l>
+               <l>'Twas in the Sulphry Womb of <hi>Acharon,</hi>
+               </l>
+               <l>Where theſe delightful Counſels firſt began.</l>
+               <l>A Thouſands Legions Conventicl'd there,</l>
+               <l>All Sons of Envy Sullen with deſpair.</l>
+               <l>Whilſt you the Miſtery of my Cauſe diſcuſs'd,</l>
+               <l>And <hi>Rhadamanthus</hi> Cry'd, Revenge was Juſt.</l>
+               <l>'Twas here, thou didſt Recount and Whiſper me</l>
+               <l>Your Years of Falſhood, Days of Loyalty.</l>
+               <l>Didſt thou not tell me thou could'ſt wiſely ſound</l>
+               <l>Riddles of State, that thou might'ſt States confound,</l>
+               <l>That thou could'ſt Set the Trampled Subject free,</l>
+               <l>And boldly Muzzle Awful Majeſtie;</l>
+               <l>Raiſe new <hi>Aſylums</hi> and Protect our Lives,</l>
+               <l>By Rifling Kings to Steal Prerogatives?</l>
+               <l>If theſe thy Virtues are? lo! then to dye,</l>
+               <l>Turns my ſad Conflict into Victory:</l>
+               <l>No more I will my Wretched doubts Purſue,</l>
+               <l>My bloody Principles I find in You.</l>
+               <l>You and We Devils did together fall.</l>
+               <l>Rebellion is the Eſſence of us All.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
